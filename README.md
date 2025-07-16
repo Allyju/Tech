@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>M_in_X.Tech</title>
     <style>
-        :root { --blue: #2563eb; --dark: #1e293b; --light: #f8fafc }
+        :root { --black: #2563eb; --dark: #1e293b; --light: #f8fafc }
         * { margin: 0; box-sizing: border-box }
         body { font-family: system-ui, sans-serif; line-height: 1.6; color: var(--dark); background: var(--light); max-width: 800px; margin: 0 auto; padding: 1rem }
         header { display: flex; justify-content: space-between; align-items: center; padding: 1rem 0; margin-bottom: 2rem }
@@ -48,7 +48,7 @@
 
         <section id="about">
             <h2>About Us</h2>
-            <p>Tech team delivering solutions since 2020. We focus on clean code and user-friendly design.</p>
+            <p>Tech team delivering solutions since 2024. We focus on clean code and user-friendly design.</p>
         </section>
 
         <section id="contact">
